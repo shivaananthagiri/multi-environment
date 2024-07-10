@@ -1,0 +1,5 @@
+bucket = "remotestate-dev"
+# key    = "give/path/to/store_tfstate_file"
+key    = "dev-key"
+region = "us-east-1"
+dynamodb_table = "remotestate-locking-prod"
